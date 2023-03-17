@@ -13,7 +13,6 @@ Personal Espanso Package Library
   - `:{`
   - `:[`
   - `:<`
-  - `:``
   - `:"`
   - `:'`
   - `:-`
